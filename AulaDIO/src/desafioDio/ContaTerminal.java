@@ -15,7 +15,6 @@ public class ContaTerminal {
 		sc.nextLine();
 		System.out.println("Por favor, digite o seu nome: ");
 		String nomecliente = sc.nextLine();
-		//sc.nextLine();
 		System.out.println("Digite seu saldo: ");
 		double saldo = sc.nextDouble();
 		
